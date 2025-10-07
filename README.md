@@ -12,3 +12,14 @@ Python 3.11+
 PyTorch
 Hugging Face Transformers
 Gradio
+
+📂 Project Structure
+AI-Text-Summarizer/
+├── textsummery.py        
+├── requirements.txt     
+├── README.md             
+└── Models/              
+
+
+👤 Author
+Atharv Yuvraj Patil
